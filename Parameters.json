@@ -2,15 +2,15 @@
 
     "siteName": {
         "type": "string",
-        "Value": "MySite123abcd12"
+        "Value": "ContosoITRequestSite"
     },
     "hostingPlanName": {
         "type": "string",
-        "Value": "MyPlanName"
+        "Value": "Default1"
     },
     "siteLocation": {
         "type": "string",
         "Value": "East US"
     }
-    
+
 }
