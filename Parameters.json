@@ -6,11 +6,11 @@
     },
     "hostingPlanName": {
         "type": "string",
-        "Value": "Default1"
+        "Value": "Default11"
     },
     "siteLocation": {
         "type": "string",
-        "Value": "East US"
+        "Value": "East USss"
     }
 
 }
