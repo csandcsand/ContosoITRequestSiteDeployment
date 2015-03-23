@@ -11,6 +11,13 @@
     "siteLocation": {
         "type": "string",
         "Value": "East US"
+    },
+    "repoUrl": {
+        "type": "string",
+        "Value": "https://github.com/csandcsand/ContosoITRequestSite"
+    },
+    "branch": {
+        "type": "string",
+        "Value": "master"
     }
-
 }
