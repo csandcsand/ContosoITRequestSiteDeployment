@@ -3,14 +3,14 @@
     "siteName": {
         "type": "string",
         "Value": "ContosoITRequestSite"
-    },
+    }
     "hostingPlanName": {
         "type": "string",
-        "Value": "Default11"
-    },
+        "Value": "Default1"
+    }
     "siteLocation": {
         "type": "string",
-        "Value": "East USss"
+        "Value": "East US"
     }
 
 }
