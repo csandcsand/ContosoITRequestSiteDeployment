@@ -1,6 +1,6 @@
 {
 
-    "siteName4": {
+    "siteName": {
         "type": "string",
         "Value": "ContosoITRequestSite"
     },
